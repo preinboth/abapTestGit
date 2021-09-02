@@ -6,3 +6,5 @@
 REPORT ZGIT_TEST.
 
 data bool type boolean.
+
+START-OF-SELECTION.
