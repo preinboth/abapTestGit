@@ -25,6 +25,7 @@ CLASS ZCL_TESTCLASS IMPLEMENTATION.
 
 
   method CLASS_CONSTRUCTOR.
+
   endmethod.
 
 
